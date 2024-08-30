@@ -18,7 +18,7 @@ The **Trade Logger App** is a Python-based GUI application designed to automate 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/trade-logger-app.git
+    https://github.com/AliAlhashimiIQ/Trade-Logger-App
     cd trade-logger-app
     ```
 
